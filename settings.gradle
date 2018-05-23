@@ -1,1 +1,1 @@
-include  ':aidlexample', ':status', ':notify'
+include  ':aidlexample', ':status', ':notify', ':remote'
